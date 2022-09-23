@@ -1,7 +1,7 @@
 # Sobre Natan
 
 
-- 👋 Olá, meu nome é @natandematos1993
+- 👋 Olá, meu nome é **@natandematos1993**
 - 📝 Meu contato é natan.araujo.matos@escola.pr.gov.br
 - 👀 Sou interessado em programação
 - 💻 Eu estou aprendendo sobre Javascript e Scratch
